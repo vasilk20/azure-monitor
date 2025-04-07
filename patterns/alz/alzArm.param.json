@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "TEST-ALZ"
+      "value": ""
     },
     "platformManagementGroup": {
       "value": "TEST-ALZ"
