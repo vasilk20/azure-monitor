@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "MAIN-EID"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "TEST-ALZ"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "TEST-ALZ"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "TEST-ALZ"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "TEST-ALZ"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "TEST-ALZ"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -78,7 +78,7 @@
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "northeurope"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
@@ -97,7 +97,9 @@
       ]
     },
     "ALZMonitorActionGroupEmail": {
-      "value": []
+      "value": [
+        "vasekostadinov@hotmail.com"
+      ]
     },
     "ALZLogicappResourceId": {
       "value": ""
