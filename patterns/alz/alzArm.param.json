@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "MAIN-EID"
+      "value": "TEST-ALZ"
     },
     "platformManagementGroup": {
       "value": "TEST-ALZ"
