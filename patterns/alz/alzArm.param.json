@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": ""
+      "value": "TEST-ALZ"
     },
     "platformManagementGroup": {
       "value": "TEST-ALZ"
@@ -69,7 +69,7 @@
       "value": ""
     },
     "userAssignedManagedIdentityName": {
-      "value": "id-amba-prod-001"
+      "value": "id-amba-prod-985"
     },
     "managementSubscriptionId": {
       "value": "9ca93b01-1deb-49fe-a195-3d9cff2bd127"
